@@ -1,5 +1,5 @@
 var http = require('http');
-var code = 301; // Permenant Redirect
+var code = 301; // Permanent Redirect
 var secure = false;
 http.createServer(function (req, res) {
   res.statusCode = code;
