@@ -1,4 +1,4 @@
 tootallnate.net
 ===============
 
-tootallnate.net - currently running on Nodejitsu
+tootallnate.net redirect server - currently running on Nodejitsu
